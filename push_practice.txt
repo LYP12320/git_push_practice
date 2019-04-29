@@ -3,4 +3,8 @@
 孤帆远影碧空尽，唯见长江天际流。
 helloworld!
 火遁，豪火球之术！
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is easy and quick.
+=======
+creating a new branch is easy and quick
+>>>>>>> featurel
